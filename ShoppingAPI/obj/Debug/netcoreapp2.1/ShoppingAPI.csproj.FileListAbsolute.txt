@@ -1,0 +1,14 @@
+C:\Users\PANKAJ RAYAL\source\repos\PacktPub\ShoppingAPI\ShoppingAPI\bin\Debug\netcoreapp2.1\ShoppingAPI.deps.json
+C:\Users\PANKAJ RAYAL\source\repos\PacktPub\ShoppingAPI\ShoppingAPI\bin\Debug\netcoreapp2.1\ShoppingAPI.runtimeconfig.json
+C:\Users\PANKAJ RAYAL\source\repos\PacktPub\ShoppingAPI\ShoppingAPI\bin\Debug\netcoreapp2.1\ShoppingAPI.runtimeconfig.dev.json
+C:\Users\PANKAJ RAYAL\source\repos\PacktPub\ShoppingAPI\ShoppingAPI\bin\Debug\netcoreapp2.1\ShoppingAPI.dll
+C:\Users\PANKAJ RAYAL\source\repos\PacktPub\ShoppingAPI\ShoppingAPI\bin\Debug\netcoreapp2.1\ShoppingAPI.pdb
+C:\Users\PANKAJ RAYAL\source\repos\PacktPub\ShoppingAPI\ShoppingAPI\obj\Debug\netcoreapp2.1\ShoppingAPI.csprojAssemblyReference.cache
+C:\Users\PANKAJ RAYAL\source\repos\PacktPub\ShoppingAPI\ShoppingAPI\obj\Debug\netcoreapp2.1\ShoppingAPI.csproj.CoreCompileInputs.cache
+C:\Users\PANKAJ RAYAL\source\repos\PacktPub\ShoppingAPI\ShoppingAPI\obj\Debug\netcoreapp2.1\ShoppingAPI.RazorAssemblyInfo.cache
+C:\Users\PANKAJ RAYAL\source\repos\PacktPub\ShoppingAPI\ShoppingAPI\obj\Debug\netcoreapp2.1\ShoppingAPI.RazorAssemblyInfo.cs
+C:\Users\PANKAJ RAYAL\source\repos\PacktPub\ShoppingAPI\ShoppingAPI\obj\Debug\netcoreapp2.1\ShoppingAPI.AssemblyInfoInputs.cache
+C:\Users\PANKAJ RAYAL\source\repos\PacktPub\ShoppingAPI\ShoppingAPI\obj\Debug\netcoreapp2.1\ShoppingAPI.AssemblyInfo.cs
+C:\Users\PANKAJ RAYAL\source\repos\PacktPub\ShoppingAPI\ShoppingAPI\obj\Debug\netcoreapp2.1\ShoppingAPI.RazorTargetAssemblyInfo.cache
+C:\Users\PANKAJ RAYAL\source\repos\PacktPub\ShoppingAPI\ShoppingAPI\obj\Debug\netcoreapp2.1\ShoppingAPI.dll
+C:\Users\PANKAJ RAYAL\source\repos\PacktPub\ShoppingAPI\ShoppingAPI\obj\Debug\netcoreapp2.1\ShoppingAPI.pdb
